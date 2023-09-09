@@ -1,0 +1,11 @@
+
+#complete the function
+def shipping_cost(weight):
+#taking the weight as input
+  weight = int(input())
+  print(weight*5)
+
+     
+
+#function call
+shipping_cost(weight)
